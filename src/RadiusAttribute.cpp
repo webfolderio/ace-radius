@@ -19,10 +19,10 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "RadiusAttribute.h"
-#include "RadiusPacket.h"
-#include "RadiusSecret.h"
-#include "md5.h"
+#include "ace-radius/RadiusAttribute.h"
+#include "ace-radius/RadiusPacket.h"
+#include "ace-radius/RadiusSecret.h"
+#include "ace-radius/md5.h"
 
 
 // the following table must be synchronized with definition of Attribute Types in CAttribute.h file

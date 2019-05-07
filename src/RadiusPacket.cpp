@@ -17,12 +17,12 @@
 #include <string.h>
 #include <stdio.h>
 
-#include "RadiusPacket.h"
-#include "RadiusSecret.h"
-#include "RadiusClientStack.h"
+#include "ace-radius/RadiusPacket.h"
+#include "ace-radius/RadiusSecret.h"
+#include "ace-radius/RadiusClientStack.h"
 
-#include "Radius.h"
-#include "md5.h"
+#include "ace-radius/Radius.h"
+#include "ace-radius/md5.h"
 
 
 

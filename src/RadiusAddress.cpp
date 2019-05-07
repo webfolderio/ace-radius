@@ -9,7 +9,7 @@
     #include "config.h"
 #endif
 
-#include "RadiusAddress.h"
+#include "ace-radius/RadiusAddress.h"
 
 #ifdef _MSC_VER
     #include <winsock2.h>

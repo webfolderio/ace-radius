@@ -24,7 +24,7 @@
     #include "config.h"
 #endif
 
-#include "md5.h"
+#include "ace-radius/md5.h"
 
 #include <string.h>
 

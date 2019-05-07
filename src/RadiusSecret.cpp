@@ -11,7 +11,7 @@
 
 #include <string.h>
 
-#include "RadiusSecret.h"
+#include "ace-radius/RadiusSecret.h"
 
 
 // ---------------------------
