@@ -586,7 +586,7 @@ private:
     unsigned char * getRawData(void);
 
     // Types of attribute data
-    typedef enum AttributeFormat_e
+    enum AttributeFormat_e
     {
         E_ATTR_FORMAT_INTEGER,
         E_ATTR_FORMAT_IP_ADDRESS,
