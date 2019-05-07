@@ -12,4 +12,4 @@ The code uses portable POSIX APIs and is supported on Linux, Solaris and other P
 Windows platform support is provided as well via the use of Winsock2 library.
 
 ## Note
-This repor mirror of: [http://ace-radius.sourceforge.net/](http://ace-radius.sourceforge.net)
+This repor mirror of: [http://ace-radius.sourceforge.net](http://ace-radius.sourceforge.net)
